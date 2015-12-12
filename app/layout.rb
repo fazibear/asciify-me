@@ -9,6 +9,9 @@ class Layout
 /    |    \\\\___ \\\\  \___|  |  ||  |  \___  /    Y    \  ___/\|
 \____|__  /____  >\___  >__|__||__|  / ____\____|__  /\___  >_
         \/     \/     \/             \/            \/     \/\/'}
+      pre do
+        'Make sure you\'re using https://, grant permission to your cam, and enjoy!'
+      end
     end
     section do
       pre do
