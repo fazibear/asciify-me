@@ -1,4 +1,4 @@
-# Sample app  written with [Inesita](https://github.com/inesita-rb/inesita)
+# Asciify Me app written with [Inesita](https://github.com/inesita-rb/inesita)
 
 [DEMO](https://inesita-asciify-me.netlify.com/)
 
