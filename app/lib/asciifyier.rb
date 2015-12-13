@@ -1,5 +1,5 @@
 class Asciifyier
-  CHAR_LIST = '              .,:;i1tfLCG08@'.split('')
+  CHAR_LIST = '   .,:;i1tfLCG08@'.split('').reverse
   CHAR_LIST_LENGTH = CHAR_LIST.length - 1
 
   def initialize(canvas)
