@@ -24,6 +24,10 @@ class Layout
         a href: 'http://inesita-rb.github.io' do
           'Inesita'
         end
+        text ' by '
+        a href: 'https://github.com/fazibear' do
+          'fazibear'
+        end
         text '. Source available on '
         a href: 'https://github.com/inesita-rb/asciify-me' do
           'github'
