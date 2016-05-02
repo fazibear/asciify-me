@@ -1,5 +1,7 @@
 require 'inesita'
 
+require 'browser'
+require 'browser/animation_frame'
 require 'browser/canvas'
 require 'browser/interval'
 
