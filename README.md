@@ -1,6 +1,6 @@
 # Asciify Me app written with [Inesita](https://github.com/inesita-rb/inesita)
 
-[DEMO](https://inesita-asciify-me.netlify.com/)
+[Live](https://asciifyme.fazibear.me/)
 
 ```sh
 $ git clone https://github.com/inesita-rb/asciify-me.git
