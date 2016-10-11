@@ -1,6 +1,10 @@
-# Asciify Me app written with [Inesita](https://github.com/inesita-rb/inesita)
+# Asciify Me
 
-[Live Application](https://asciifyme.fazibear.me/)
+Funny app that turns your face into ascii art!
+
+[Try now!](https://asciifyme.fazibear.me/)
+
+Written with [Inesita](https://github.com/inesita-rb/inesita)
 
 ## Development
 
