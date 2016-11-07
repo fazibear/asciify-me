@@ -10,11 +10,18 @@ require_tree './lib'
 require 'layout'
 require 'store'
 
+class Application
+  include Inesita::Component
+
+  inject Store
+
+  def render
+    component Layout
+  end
+end
+
 $document.ready do
-  app = Inesita::Application.new(
-    store: Store,
-    layout: Layout
-  ).mount_to($document.body)
+  app = Application.mount_to($document.body)
 
   r = proc do
     app.render!

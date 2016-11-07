@@ -1,5 +1,5 @@
 class Layout
-  include Inesita::Layout
+  include Inesita::Component
 
   def render
     header do

@@ -1,5 +1,5 @@
 class Store
-  include Inesita::Store
+  include Inesita::Injection
 
   WEBCAM_RES = [320,200]
   ASCII_RES  = [80, 40]
