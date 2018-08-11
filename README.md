@@ -16,3 +16,7 @@ $ bundle exec inesita server
 ```
 
 Go to [http://localhost:9292/](http://localhost:9292/)
+
+## Thank you!
+
+[![Become Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=6912974)
