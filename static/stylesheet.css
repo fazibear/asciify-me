@@ -1,0 +1,25 @@
+body {
+  background-color: black; }
+
+pre {
+  text-align: center; }
+
+header {
+  color: #DAA520;
+  font-size: 18px;
+  font-weight: bold;
+  text-shadow: 0 0 3px #FFD700; }
+
+section {
+  margin-top: 30px;
+  color: #32CD32;
+  text-shadow: 0 0 15px #00FF00;
+  font-size: 14px; }
+
+footer, footer a {
+  margin-top: 30px;
+  color: #FF0000;
+  text-shadow: 0 0 15px #FF6347;
+  font-size: 14px; }
+
+/*# sourceMappingURL=stylesheet.css.map */

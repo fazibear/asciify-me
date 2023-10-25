@@ -1,5 +1,6 @@
 require 'inesita'
 
+require 'promise'
 require 'browser'
 require 'browser/animation_frame'
 require 'browser/canvas'
